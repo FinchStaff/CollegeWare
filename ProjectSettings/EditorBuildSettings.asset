@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menus/gamestart.unity
+    guid: 2e186003a6946bf45a3d67639e0a1465
+  - enabled: 1
+    path: Assets/Scenes/Menus/menu.unity
+    guid: 8078f06acdc91d94192ea710bc628164
+  - enabled: 1
+    path: Assets/Scenes/Misc/microgametransition.unity
+    guid: c13d3fe7489e2a44a91b0458fb6d53a4
+  - enabled: 1
+    path: Assets/Scenes/Menus/gameover.unity
+    guid: bfff567d285bfca40bd5d143b29774f2
+  - enabled: 1
+    path: Assets/Scenes/Menus/Win.unity
+    guid: 9c92a7701bf29954582f23cfc405174f
+  - enabled: 1
+    path: Assets/Scenes/Misc/otherscene.unity
+    guid: 48d88160356f58a448c2a6142d7399f7
+  - enabled: 1
+    path: Assets/Scenes/microgames/Frogger.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/microgames/maths.unity
+    guid: 494a43efd84dd264797a429d4480e031
+  - enabled: 1
+    path: Assets/Scenes/microgames/nothing.unity
+    guid: 3408999823675804b940eeac7a4aa9a7
+  - enabled: 1
+    path: Assets/Scenes/microgames/canyoukeepasecret.unity
+    guid: a3e8fe880b1afff4d8bf05626f8dcc0a
+  - enabled: 1
+    path: Assets/Scenes/microgames/typing.unity
+    guid: 7a45c47e0759d874d9082c1b1b6c1a3a
+  - enabled: 1
+    path: Assets/Scenes/microgames/FlappyBird.unity
+    guid: e500b03cb01a63b40aa7ededdc92049f
+  - enabled: 1
+    path: Assets/Scenes/microgames/trainpress.unity
+    guid: 931a2b9774f0bc34e9490d0f82904fa6
+  - enabled: 1
+    path: Assets/Scenes/microgames/remember.unity
+    guid: 0287006be1964cb499c857a9323202e3
+  - enabled: 1
+    path: Assets/Scenes/microgames/corridorrun.unity
+    guid: 81c7eaac25351d14aa8fda6366fdfa7b
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
